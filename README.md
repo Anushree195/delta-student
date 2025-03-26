@@ -1,1 +1,2 @@
-# delta-student
+WanderLust
+Major project
